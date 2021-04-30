@@ -9,19 +9,20 @@
 ### Analysis of Outcomes Based on Launch Date
 ![Theatre_Outcomes_vs_Launch.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 
-
-As indicated in the chart above,you will find that plays with launch dates in May, June and July have the highest success rate.
+As indicated in the chart above, you will find that plays with launch dates in May, June and July have the highest success rate.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
+Plays with a low fundraisng goal have a higher percentage of succeeding in their goals, while plays with a high fundraising goal have a lower percentage of succeding.
+
+### The data needed to be sorted to make the information clear.  Some categories of information were grouped together.
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- From the information collected, I conclude that the the best time frame to launch a play is during the months of May, June and July.  I also conclude that May, June and July also have the most launch dates.
 
-- What can you conclude about the Outcomes based on Goals?
+- Plays with fundraising goals below $5000 and between $35000 to $45000 have the highest success rate.
 
-- What are some limitations of this dataset?
+- I had some limitations with this dataset.  The dataset does not contain the types of plays, I cannot tell if the successful plays were comedies, dramas, historical, modern, etc.  The dataset did not contain information on cities or if the plays were touring productions.  This would be great information to have for your next campaign.
 
-- What are some other possible tables and/or graphs that we could create?
+- I would like to create a few charts and tables on the length of the theatrical run of each play.
