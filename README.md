@@ -18,7 +18,7 @@ Plays with a low fundraisng goal have a higher percentage of succeeding in their
 
 ### Challenges and Difficulties Encountered
 
-The data needed to be sorted to make the information clear.  Some categories of information were grouped together.
+The dataset needed to be sorted to make the information clear.  Some categories of information were grouped together.
 
 ## Results
 - From the information collected, I conclude that the the best time frame to launch a play is during the months of May, June and July.  I also conclude that May, June and July also have the most launch dates.
