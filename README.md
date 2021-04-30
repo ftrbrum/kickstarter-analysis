@@ -5,6 +5,7 @@
 ### Analysis of Outcomes Based on Launch Date
 ![Theatre_Outcomes_vs_Launch.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
