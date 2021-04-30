@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### The following information highlights the successfull and failed campaigns for plays based on their launch dates and their funding goals.
+### The following information highlights the successfull and failed campaigns for plays based on the launch dates and the funding goals.
 
 ## Analysis and Challenges
 
@@ -23,6 +23,6 @@ Plays with a low fundraisng goal have a higher percentage of succeeding in their
 
 - Plays with fundraising goals below $5000 and between $35000 to $45000 have the highest success rate.
 
-- I had some limitations with this dataset.  The dataset does not contain the types of plays, I cannot tell if the successful plays were comedies, dramas, historical, modern, etc.  The dataset did not contain information on cities or if the plays were touring productions.  This would be great information to have for your next campaign.
+- I had some limitations with this dataset.  The dataset does not contain the types of plays, I cannot tell if the successful plays were comedies, dramas, historical, modern, etc.  The dataset did not contain information on cities or if the plays were touring productions.  This would be great information to have for your next campaign.  I would also like to have the length of each play to compare the length of the play to the success of the play.
 
 - I would like to create a few charts and tables on the length of the theatrical run of each play.
