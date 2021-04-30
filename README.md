@@ -3,6 +3,7 @@
 ### Purpose
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+![Theatre_Outcomes_vs_Launch.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ### Challenges and Difficulties Encountered
 ## Results
