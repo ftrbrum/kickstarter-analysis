@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theatre_Outcomes_vs_Launch.png](https://github.com/ftrbrum/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
+![Theatre_Outcomes_vs_Launch.png](OneDrive/Desktop/analysis projects/Module 1/Resources/Resources/Theatre_Outcomes_vs_Launch.png)
 
 As indicated in the chart above, you will find that plays with launch dates in May, June and July have the highest success rate.
 
